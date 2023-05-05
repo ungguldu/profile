@@ -1,7 +1,7 @@
 # profile
 just my profile
 # 💫 About Me:
-I'm currently working at :<br>Kementerian Keuangan,<br>Badan Pendidikan dan Pelatihan Keuangan,<br>Politeknik Keuangan Negara STAN.<br><br>I'm currently learning :<br>Python
+I'm currently working at :<br>di,<br>mana,<br>yaa.<br><br>I'm currently learning :<br>Python
 
 
 ## 🌐 Socials:
