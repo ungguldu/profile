@@ -1,7 +1,7 @@
 # profile
 just my profile
 # 💫 About Me:
-I'm currently working at :<br>di,<br>mana,<br>yaa.<br><br>I'm currently learning :<br>Python
+I'm currently working at :<br>di,<br>mana,<br>yaa.<br><br>I'm currently learning :<br>apa ya
 
 
 ## 🌐 Socials:
